@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 💜 Olá, meu nome é <strong>Edinéia Martins!</strong>
+<!--
+> Faça uma breve aprensentação sobre você e a sua área.
+🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
+
+💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+-->
+----
+
+## 🚀 Minhas Skills
+![image](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+
+---
+
+## ⭐ Informações sobre minha conta GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)
